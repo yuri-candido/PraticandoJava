@@ -11,7 +11,7 @@ public class Teste02 {
 		/*Diferente da classe teste, é possível declarar um objeto do tipo
 		 produto e fazer a instância de uma subclasse - computador, tomate.
 		 Utilizando, portanto, o polimorfismo. 
-		 Apenas o que há na classe produto e o derivado da implementação podem ser utilizados. */
+		 Apenas o que há na classe produto e o derivado da implementação podem ser utilizados.*/
 		
 		
 		Produto produto = new Computador("Ryzen 9", 3000);

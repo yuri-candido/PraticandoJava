@@ -18,8 +18,5 @@ public abstract class Produto implements Taxavel {
 	public double getValor() {
 		return valor;
 	}
-
-	
-	
 	
 }
